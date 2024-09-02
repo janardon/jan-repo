@@ -29,10 +29,8 @@ const Links = () => {
     "Homepage",
     "About",
     "Services",
-
     "Portfolio",
     "Contact",
-    "About",
   ];
 
   return (
