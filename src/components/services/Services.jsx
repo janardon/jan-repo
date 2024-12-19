@@ -89,7 +89,7 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>CSI SAP</h2>
+          <h2>CSI SAP 2000</h2>
           <p>
             <ul>
               Conduct a detailed structural analysis of a building using SAP
@@ -117,6 +117,7 @@ const Services = () => {
         >
           <h2>Construction Drawings </h2>
           <p>
+            <br />
             Create precise construction drawings and specifications to guide
             contractors in building a residential project to design and
             safety standards.
