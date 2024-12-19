@@ -53,10 +53,11 @@ const About = () => {
                 <br />
                 <br />
                 <br />
+                <br />
                 👋 Hello there! I'm Janardan Gyawali, a passionate Civil
                 Engineer from Nepal, born on July 17, 2000. I hold a Bachelor's
                 Degree in Civil Engineering from Kantipur Engineering College,
-                affiliated with Tribhuvan University and a registered Engineer. My academic journey
+                affiliated with Tribhuvan University and a registered Engineer in NEC. My academic journey
                 provided me with a strong foundation in civil engineering
                 principles and practices, culminating in a final year project
                 where I designed a prestressed concrete girder bridge over Jhiku

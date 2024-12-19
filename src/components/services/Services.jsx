@@ -115,7 +115,7 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Construction Drawings and Specifications</h2>
+          <h2>Construction Drawings </h2>
           <p>
             Create precise construction drawings and specifications to guide
             contractors in building a residential project to design and
@@ -142,6 +142,7 @@ const Services = () => {
         >
           <h2>SketchUp</h2>
           <p>
+          <br />
           Proficient in SketchUp for creating detailed 3D models, visualizations and architectural designs.
           </p>
           <br />

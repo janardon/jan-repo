@@ -14,10 +14,10 @@ const items = [
             color: "skyblue",
           }}
         >
-          Ashar, 2080 - Falgun, 2080 Pachkhal, Kavrepalanchowk
+          (Ashar, 2080 - Falgun, 2080) Panchkhal, Kavrepalanchowk
         </span>
         <br /> Analysis of bridge on SAP software, Detail drawings of the
-        structural members (Slab,Girder,Abutment,Foundation,etc.)
+        structural members (Slab, Girder, Abutment, Foundation, etc.)
       </>
     ),
     link: "https://drive.google.com/drive/folders/10VZ_N4qiKp89t0pXYEg27EGUUayB0ALK?usp=sharing",
@@ -29,7 +29,7 @@ const items = [
     desc: (
       <>
         <div style={{ color: "skyblue" }}>
-          Jestha, 2079 - Ashar, 2079 Bhaktapur, Kharipati
+          (Jestha, 2079 - Ashar, 2079) Kharipati, Bhaktapur
         </div>
         Use of Theodolite, Total Station and Auto level. Topographic map
         preparation in AutoCAD, Report Writing, Presentation and Documentation
