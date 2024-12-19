@@ -56,7 +56,7 @@ const About = () => {
                 👋 Hello there! I'm Janardan Gyawali, a passionate Civil
                 Engineer from Nepal, born on July 17, 2000. I hold a Bachelor's
                 Degree in Civil Engineering from Kantipur Engineering College,
-                affiliated with Tribhuvan University. My academic journey
+                affiliated with Tribhuvan University and a registered Engineer. My academic journey
                 provided me with a strong foundation in civil engineering
                 principles and practices, culminating in a final year project
                 where I designed a prestressed concrete girder bridge over Jhiku
@@ -68,7 +68,7 @@ const About = () => {
                 📐 My expertise extends beyond bridge design; I have developed a
                 broad range of technical skills through various training
                 programs. I am proficient in industry-standard tools like
-                AutoCAD, CSI SAP 2000, and Microsoft Excel. My problem-solving
+                AutoCAD, SketchUp, CSI SAP 2000, and MS Office Suite. My problem-solving
                 and decision-making abilities have been sharpened through
                 rigorous academic and field tasks, enabling me to approach
                 challenges with a methodical and detail-oriented mindset.

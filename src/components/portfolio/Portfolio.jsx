@@ -16,8 +16,8 @@ const items = [
         >
           Ashar, 2080 - Falgun, 2080 Pachkhal, Kavrepalanchowk
         </span>
-        <br /> Analysis of bridge on SAP software Detail drawings of the
-        structural members (Slab,Girder,Abutment,Foundation,etc.),
+        <br /> Analysis of bridge on SAP software, Detail drawings of the
+        structural members (Slab,Girder,Abutment,Foundation,etc.)
       </>
     ),
     link: "https://drive.google.com/drive/folders/10VZ_N4qiKp89t0pXYEg27EGUUayB0ALK?usp=sharing",
@@ -31,8 +31,8 @@ const items = [
         <div style={{ color: "skyblue" }}>
           Jestha, 2079 - Ashar, 2079 Bhaktapur, Kharipati
         </div>
-        Use of Theodolite, Total Station and Auto level Topographic map
-        preparation in AutoCAD Report Writing, Presentation and Documentation",
+        Use of Theodolite, Total Station and Auto level. Topographic map
+        preparation in AutoCAD, Report Writing, Presentation and Documentation
       </>
     ),
 
@@ -42,7 +42,7 @@ const items = [
     id: 3,
     title: "Custom AutoCAD Designs for Personal Space Enhancement",
     img: "./cad.png",
-    desc: "Demonstration of proficiency in AutoCAD and a strong understanding of architectural and interior design principles",
+    desc: "Demonstrated proficiency in AutoCAD, focusing on detailed architectural drafting and structural design principles",
     link: "https://drive.google.com/file/d/1xFfWmkVZegO1W01WNQjkGCjCb76r4KWf/view?usp=sharing",
   },
   {

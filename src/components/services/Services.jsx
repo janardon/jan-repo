@@ -37,7 +37,7 @@ const Services = () => {
       <motion.div className="textContainer" variants={variants}>
         <p>
           I focus on gaining practical experience in design, construction
-          processes,
+          processes
           <br /> and project management.
         </p>
         <hr />
@@ -66,8 +66,7 @@ const Services = () => {
           <h2>AutoCAD</h2>
           <p>
             <ul>
-              Created a modern home layout Focus on efficient space use and
-              stylish design.
+            Create technical drawings, plans, and 3D models for structural and engineering projects using AutoCAD
             </ul>
           </p>
 
@@ -93,7 +92,7 @@ const Services = () => {
           <h2>CSI SAP</h2>
           <p>
             <ul>
-              Conducted a detailed structural analysis of a building using SAP
+              Conduct a detailed structural analysis of a building using SAP
               2000, ensuring stability and safety through accurate load
               calculations and material optimization.
             </ul>
@@ -118,7 +117,7 @@ const Services = () => {
         >
           <h2>Construction Drawings and Specifications</h2>
           <p>
-            Created precise construction drawings and specifications to guide
+            Create precise construction drawings and specifications to guide
             contractors in building a residential project to design and
             safety standards.
           </p>
@@ -141,13 +140,12 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Wondershare Filmora</h2>
+          <h2>SketchUp</h2>
           <p>
-            Edited and produced a polished video using Filmora, enhancing
-            visuals and sound to create a compelling final product.
+          Proficient in SketchUp for creating detailed 3D models, visualizations and architectural designs.
           </p>
           <br />
-          <a href="https://www.youtube.com/watch?v=b9Lq76Xbh40" target="_blank">
+          <a href="https://drive.google.com/drive/folders/1gWSJfKPoSGjUaH2OOMPxlGrx2WpnSEB_?usp=drive_link" target="_blank">
             <button
               style={{
                 border: "1px solid black",
